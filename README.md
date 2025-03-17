@@ -1,5 +1,6 @@
 Hey, I am Talha Israr. I am an Embedded Engineer currently persuing my Masters as an Erasmus Mundus Scholar.
 I love exploring new things and here you can find some of my favourite stuff. I have played around with alot of different tools but I am now more focused on Embedded Systems and Verification of digital Systems.
+
 Hardware Skills:
  1. SystemVerilog
  2. VHDL
@@ -14,6 +15,10 @@ Hardware Skills:
  5. Ltspice
  6. Proteus
  7. MATLAB/SIMULINK
+
+Others: 
+- IOT and deployment of AI on edge
+- Raspberry Pi, Jetson Nano, Jetson TX2, Jetson AGX
 
 Software Skills:
 - Data Analysis:
