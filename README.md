@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Talha Israr  
-🎓 Erasmus Mundus Master’s Student in Embedded Computing Systems | ⚙️ Digital Design & Verification Enthusiast
-
-## 🧠 About Me  
-I'm **Talha Israr**, an *Erasmus Mundus Master’s student* passionate about **hardware design**, **RTL verification**, and **embedded systems**.  
+I'm an *Erasmus Mundus Master’s student* passionate about **hardware design**, **RTL verification**, and **embedded systems**.  
 I enjoy bridging the gap between **digital design theory** and **real-world FPGA/SoC implementations**, turning ideas into reliable, high-performance hardware.
-
----
 
 ## ⚙️ Technical Skills  
 
@@ -22,11 +17,8 @@ I enjoy bridging the gap between **digital design theory** and **real-world FPGA
 🧠 AMBA Protocols & peripheral interfacing  
 🔐 High performance and reliable digital system development
 
----
-
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20Israr-blue?logo=linkedin)](https://www.linkedin.com/in/talha-israr-0181401b9) 
-📫 **Email:** ti2g25@soton.ac.uk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20Israr-blue?logo=linkedin)](https://www.linkedin.com/in/talha-israr-0181401b9)    📫 **Email:** ti2g25@soton.ac.uk
 
-> “Design for performance. Verify for reliability.”  
+ “Design for performance. Verify for reliability.”  
 🧩 Always open to collaborations in **digital design**, **verification**, and **embedded AI**.
