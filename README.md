@@ -1,21 +1,25 @@
 # 👋 Hi, I'm Talha Israr  
-I'm an *Erasmus Mundus Master’s student* passionate about **hardware design**, **RTL verification**, and **embedded systems**.  
+I'm an *Hardware Design Engineer* passionate about **processor design**, **RTL verification**, and **embedded systems**. 
 I enjoy bridging the gap between **digital design theory** and **real-world FPGA/SoC implementations**, turning ideas into reliable, high-performance hardware.
 
-## ⚙️ Technical Skills  
+🎓  Currently pursuing an **Erasmus Mundus Joint Master’s in Embedded Computing Systems (EMECS)** while working on hardware design projects in my free time.
 
-**💻 Hardware Design & RTL:** `SystemVerilog` · `VHDL` · `Chisel` · `C/C++`
+## 🛠️ Technical Skills  
 
-**🧩 Tools & Simulation:** `Vivado` · `Xsim` · `Vitis HLS` · `Quartus` . `ModelSim` · `OneSpin`· `MATLAB/Simulink`
+**🧩 Hardware Design & RTL:** `SystemVerilog` · `Verilog` · `VHDL` · `Chisel`
+
+**⚙️ Tools & Simulation:** `Vivado` · `Xsim` · `Vitis HLS` · `Quartus` . `ModelSim` · `OneSpin`· `MATLAB/Simulink`
 
 **🔗 Embedded Systems & AI:** `FPGA` · `Raspberry Pi` · `Jetson Nano/TX2/AGX` · `Edge AI Deployment`
 
-**📊 Data & ML:** `Python` · `R` · `PyTorch` · `TensorFlow` · `SQL` · `Tableau` · `Power BI`
+**💻 Programming:** ``C`` · `C++` · `Python` · `R` · `RISC-V Assembly` 
+
+**📊 Data & ML:** `PyTorch` · `TensorFlow` · `SQL` · `Tableau` · `Power BI`
 
 ## 🧩 Key Interests:
 🚀 Pipelined Processor design, branch prediction, hazards & extensions  
 🧠 AMBA Protocols & peripheral interfacing  
-🔐 High performance and reliable digital system development
+🔐 Hardware acccelerator development
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20Israr-blue?logo=linkedin)](https://www.linkedin.com/in/talha-israr-0181401b9)    📫 **Email:** ti2g25@soton.ac.uk
