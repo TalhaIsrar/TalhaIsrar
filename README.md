@@ -6,11 +6,13 @@ I enjoy bridging the gap between **digital design theory** and **real-world FPGA
 
 ## 🛠️ Technical Skills  
 
-**🧩 Hardware Design & RTL:** `SystemVerilog` · `Verilog` · `VHDL` · `Chisel`
+**🧩 Hardware Description Languages:** `SystemVerilog` · `Verilog` · `VHDL` · `Chisel`
 
-**⚙️ Tools & Simulation:** `Vivado` · `Xsim` · `Vitis HLS` · `Quartus` . `ModelSim` · `OneSpin`· `MATLAB/Simulink`
+**⚙️ Tools & Simulation:** `Vivado Design Suite` · `Vitis HLS` · `Quartus` . `ModelSim` · `OneSpin`
 
 **🔗 Embedded Systems & AI:** `FPGA` · `Raspberry Pi` · `Jetson Nano/TX2/AGX` · `Edge AI Deployment`
+
+**🔌 Circuit Simulation & Design:** `LTspice` · `Multisim` · `Proteus` · `MATLAB`
 
 **💻 Programming:** ``C`` · `C++` · `Python` · `R` · `RISC-V Assembly` 
 
